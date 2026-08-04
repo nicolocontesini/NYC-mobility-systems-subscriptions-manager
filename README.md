@@ -23,6 +23,7 @@ Overall, I found (and hope it will remain so for the years to come) coding such 
 
 
 
+
 Language: Python 3                                                                                                                                                                                                                                                                                                            
 
 Purpose: Learn how to structure code, the main functions, statements, logic and tools. 
